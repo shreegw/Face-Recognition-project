@@ -4,7 +4,7 @@ import numpy as np
 from datetime import datetime
 
 now = datetime.now()
-file_open = open("Sample.csv","w")
+file_open = open("Attendance.csv","w")
 file_open.write("S.No, Roll Number, Name, Date")
 file_open.write("\n")
 sno=1
