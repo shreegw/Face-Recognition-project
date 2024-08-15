@@ -8,3 +8,6 @@ them with student faces which are being captured from the webcam and displays
 students name in real time.
 
 ## System requirements
+
+1. 4GB Storage Space
+2. HD Camera
