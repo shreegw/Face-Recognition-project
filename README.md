@@ -11,3 +11,11 @@ students name in real time.
 
 1. 4GB Storage Space
 2. HD Camera
+
+
+## Software and Libraries
+
+1. PyCharm IDE with Virtual Environment
+2. NumPy
+3. Pandas
+4. Pillow
